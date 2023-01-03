@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unilime_react/static/css/main.e2734ea9.css",
+    "main.js": "/unilime_react/static/js/main.78e60d7b.js",
+    "static/js/787.1a70176c.chunk.js": "/unilime_react/static/js/787.1a70176c.chunk.js",
+    "index.html": "/unilime_react/index.html",
+    "main.e2734ea9.css.map": "/unilime_react/static/css/main.e2734ea9.css.map",
+    "main.78e60d7b.js.map": "/unilime_react/static/js/main.78e60d7b.js.map",
+    "787.1a70176c.chunk.js.map": "/unilime_react/static/js/787.1a70176c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2734ea9.css",
+    "static/js/main.78e60d7b.js"
+  ]
+}

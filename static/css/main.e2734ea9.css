@@ -1,0 +1,2 @@
+body{font-family:Times New Roman,Times,serif}.container{align-items:center;display:flex;flex-direction:column;justify-content:center;margin:0 auto;max-width:1200px;padding:0 15px}.product_list{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));padding:0;width:100%}.product_list li{list-style:none}.product_list li img{max-width:100%}body{margin:0}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}
+/*# sourceMappingURL=main.e2734ea9.css.map*/
